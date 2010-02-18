@@ -1,6 +1,6 @@
 # The Singleton Pattern
 
-http://en.wikipedia.org/wiki/Singleton_pattern
+[http://en.wikipedia.org/wiki/Singleton_pattern](http://en.wikipedia.org/wiki/Singleton_pattern)
 
 The singleton pattern is a design pattern that is used to restrict instantiation
 of a class to one object.
